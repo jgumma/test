@@ -77,6 +77,7 @@ def delete_location(location):
    f.close()
    return {"Msg:":"Deleted!"}
 
+#changed
 
 # Run the flask-app server
 if __name__ == "__main__":
