@@ -1,0 +1,18 @@
+{
+    "nyc": [
+        "43rd street",
+        "53rd street",
+        "68th street"
+    ],
+    "boston": [
+        "p1 on main street"
+    ],
+    "austin": [
+        "austin main str",
+        "austin suburb"
+    ],
+    "philly": [
+        "austin main str",
+        "austin suburb"
+    ]
+}
